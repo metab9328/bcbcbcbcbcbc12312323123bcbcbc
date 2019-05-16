@@ -307,4 +307,4 @@ msg.channel.sendEmbed(embed24)
 
 
 
-client.login('NDQ5NzU4ODQ5MTQzMDEzMzgw.XMMCBw.Dl1I1z2SxvgfDvAwRQEc3RDLEcI');
+client.login('BOT.TOKEN');
